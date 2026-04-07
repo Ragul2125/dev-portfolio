@@ -18,9 +18,9 @@ export function Footer() {
           </span>
         </div>
 
-        <p className="text-xs text-[#334155] font-mono text-center">
+        {/* <p className="text-xs text-[#334155] font-mono text-center">
           Built with Next.js · Tailwind CSS · Framer Motion
-        </p>
+        </p> */}
 
         <div className="flex items-center gap-3">
           {[

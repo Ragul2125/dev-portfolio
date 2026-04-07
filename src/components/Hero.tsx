@@ -82,9 +82,9 @@ export function Hero() {
             className="flex flex-wrap gap-3 mb-10"
           >
             {[
-              { val: "3+", label: "Production Apps" },
+              { val: "5+", label: "Production Apps" },
               { val: "200+", label: "Devs Mentored" },
-              { val: "2×", label: "Hackathon Winner" },
+              { val: "3×", label: "Hackathon Winner" },
               { val: "8.10", label: "CGPA" },
             ].map((stat, i) => (
               <div
